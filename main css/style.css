@@ -1,0 +1,29 @@
+body {
+    background-color: beige;
+}
+
+
+.container {
+
+
+    margin: auto;
+    margin-top: 150px;
+    background-color: beige;
+    border-radius: 15px;
+    width: 400px;
+    height: 300px;
+
+    -webkit-box-shadow: 7px 4px 18px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 7px 4px 18px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 7px 4px 18px 2px rgba(0, 0, 0, 0.75);
+}
+
+label {
+    padding: 5px;
+}
+
+.form-check-input {
+    position: absolute;
+    margin-top: 0.7rem;
+    margin-left: -1.25rem;
+}
